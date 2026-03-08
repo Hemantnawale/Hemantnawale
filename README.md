@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Hemant Nawale
-**A passionate Software Engineer**
+# 💫 Hi👋, I'm Hemant
+**A passionate Software Engineer...**
 
-Email Me 👉 ✉️ **hemantnawale3072000@gmail.com** 
+Email Me 👉 **hemantnawale3072000@gmail.com** 
 
 - 🔭 I’m currently working as Software Engineer
 - 👯 I’m looking to collaborate on Backend Projects
