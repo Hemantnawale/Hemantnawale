@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **hemantnawale3072000@gmail.com**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantnawale&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-nawale-946045204/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-nawale-946045204/) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Hemantnawale)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hemantnawale3071)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
